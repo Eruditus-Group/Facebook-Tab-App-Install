@@ -1,4 +1,5 @@
 <?php
+/* This link will begin the page tab installation */
 $YOUR_APP_ID = '';//supplied by facebook after registering app
 $YOUR_URL = '';
 ?>
